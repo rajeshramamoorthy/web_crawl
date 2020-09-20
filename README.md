@@ -19,6 +19,10 @@ Composer URL is below: https://getcomposer.org/download/
 
   php index.php --site="https://www.xxxxx.com" --sites="website_list.txt" --match="matching strings|matching strings" --matches="matching_strings.txt"
 
+#Sample Output files
+1) response.json -> output json written with url status, matched string and its count
+2) website_list.txt -> list of url scraped from the website
+3) matching_strings.txt -> matched string
 
 
 
