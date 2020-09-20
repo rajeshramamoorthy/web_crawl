@@ -16,7 +16,8 @@ Composer URL is below: https://getcomposer.org/download/
 1) Navigate to project folder
 2) open command terminal
 3) Type the below command to execute the application
-php index.php --site="https://www.xxxxx.com" --sites="website_list.txt" --match="matching strings|matching strings" --matches="matching_strings.txt"
+
+  php index.php --site="https://www.xxxxx.com" --sites="website_list.txt" --match="matching strings|matching strings" --matches="matching_strings.txt"
 
 
 
