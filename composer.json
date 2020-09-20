@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/dom-crawler": "^5.1",
+        "fabpot/goutte": "^4.0"
+    }
+}
